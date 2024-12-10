@@ -59,7 +59,7 @@ Ensure you have the following tool installed:
 Run the following command to download, install, and set up the script:
 
 ```bash
-curl -o /usr/local/bin/gotify https://raw.githubusercontent.com/worthable/gotify-terminal/main/gotify.sh && chmod +x /usr/local/bin/gotify
+curl -o /usr/local/bin/gotify https://raw.githubusercontent.com/worthable/gotify-terminal/master/gotify.sh && chmod +x /usr/local/bin/gotify
 ```
 
 ---
